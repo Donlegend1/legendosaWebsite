@@ -13,8 +13,8 @@ import TestimonialSection4 from "@/components/testimonial/TestimonialSection4";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Servio - Cleaning Service",
-  description: "Developed by Azizur Rahman",
+  title: "LegendOSA Consultants - Tech at its best",
+  description: "Developed by Shedrack Ogwuche",
 };
 export default function Home() {
   return (

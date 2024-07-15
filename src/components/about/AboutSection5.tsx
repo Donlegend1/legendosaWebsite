@@ -21,11 +21,11 @@ const AboutSection5 = () => {
                   <i className="fa-solid fa-sharp fa-play"></i>
                 </a>
               </span>
-              <img
-                src="assets/img/software-about-video-placeholder.png"
+              {/* <img
+                src="/assets/img/logo/mylogo.png"
                 alt="Video Placeholder"
                 className="vector"
-              />
+              /> */}
             </div>
           </div>
 
@@ -96,21 +96,21 @@ const AboutSection5 = () => {
               </a>
 
               <div className="vectors">
-                <img
-                  src="assets/img/software-about-vector-2.png"
+                {/* <img
+                  src="/assets/img/logo/mylogo.png"
                   alt="vector"
                   className="vector vector--1"
-                />
-                <img
-                  src="assets/img/software-about-vector-3.png"
+                /> */}
+                {/* <img
+                  src="/assets/img/logo/mylogo.png"
                   alt="vector"
                   className="vector vector--2"
-                />
-                <img
-                  src="assets/img/software-about-vector-4.png"
+                /> */}
+                {/* <img
+                  src="/assets/img/logo/mylogo.png"
                   alt="vector"
                   className="vector vector--3"
-                />
+                /> */}
               </div>
             </div>
           </div>

@@ -863,46 +863,40 @@ const serviceData4 = [
 const projectData = [
   {
     id: 1,
-    img: "/assets/img/project1.jpg",
+    img: "/assets/img/services/mobile.jpg",
     subTitle: "Frontend Development",
     title: "E-Commerce Platform",
     slug: "e-commerce-platform",
   },
   {
     id: 2,
-    img: "/assets/img/project2.jpg",
+    img: "/assets/img/services/tutoring.jpg",
     subTitle: "Full-Stack Development",
     title: "Project Management Tool",
     slug: "project-management-tool",
   },
   {
     id: 3,
-    img: "/assets/img/project3.jpg",
+    img: "/assets/img/services/website.jpg",
     subTitle: "API Integration",
     title: "Social Media Integration",
     slug: "social-media-integration",
   },
   {
     id: 4,
-    img: "/assets/img/project4.jpg",
+    img: "/assets/img/services/consultation.jpg",
     subTitle: "Mobile Development",
     title: "Fitness Tracking App",
     slug: "fitness-tracking-app",
   },
   {
     id: 5,
-    img: "/assets/img/project5.jpg",
+    img: "/assets/img/services/mobile.jpg",
     subTitle: "Frontend Development",
     title: "Real Estate Platform",
     slug: "real-estate-platform",
   },
-  {
-    id: 6,
-    img: "/assets/img/project6.jpg",
-    subTitle: "Backend Development",
-    title: "Inventory Management System",
-    slug: "inventory-management-system",
-  },
+ 
 ];
 
 const projectData2 = [
@@ -1737,25 +1731,25 @@ const galleryData4 = [
 const functionsData  = [
   {
     id: 1,
-    img: "assets/img/web-development.png",
+    img: "assets/img/services/website.jpg",
     title: "Web Development",
     subTitle: "Creating stunning and responsive websites.",
   },
   {
     id: 2,
-    img: "assets/img/mobile-app-development.png",
+    img: "assets/img/services/mobile.jpg",
     title: "Mobile App Development",
     subTitle: "Building user-friendly and efficient mobile applications.",
   },
   {
     id: 3,
-    img: "assets/img/coding-tutorials.png",
+    img: "assets/img/services/tutoring.jpg",
     title: "Coding Tutorials",
     subTitle: "Providing comprehensive coding tutorials for all skill levels.",
   },
   {
     id: 4,
-    img: "assets/img/computer-accessories.png",
+    img: "assets/img/services/consultation.jpg",
     title: "Sale of Computers and Accessories",
     subTitle: "Offering a wide range of computers and accessories for sale.",
   },

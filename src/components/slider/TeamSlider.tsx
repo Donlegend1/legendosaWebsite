@@ -14,7 +14,7 @@ const TeamSlider = () => {
         spaceBetween={30}
         slidesPerView={3}
         navigation={{
-          pLegend OSA consultants: "#rv-5-team-slider-nav .prev",
+          prevEl: "#rv-5-team-slider-nav .prev",
           nextEl: "#rv-5-team-slider-nav .next",
         }}
         breakpoints={{

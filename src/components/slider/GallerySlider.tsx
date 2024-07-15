@@ -43,7 +43,7 @@ const GallerySlider = () => {
           autoplay={true}
           navigation={{
             nextEl: "#rv-1-gallery__slider-nav .next",
-            pLegend OSA consultants: "#rv-1-gallery__slider-nav .prev",
+            prevEl: "#rv-1-gallery__slider-nav .prev",
           }}
           breakpoints={{
             0: {

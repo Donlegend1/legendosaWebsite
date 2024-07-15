@@ -41,7 +41,7 @@ const BlogSlider = () => {
             autoplay={true}
             navigation={{
               nextEl: "#rv-1-blogs__slider-nav .next",
-              pLegend OSA consultants: "#rv-1-blogs__slider-nav .prev",
+              prevEl: "#rv-1-blogs__slider-nav .prev",
             }}
             breakpoints={{
               0: {

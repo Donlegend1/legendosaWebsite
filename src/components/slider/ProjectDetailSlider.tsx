@@ -18,7 +18,7 @@ const ProjectDetailSlider = () => {
         effect={"fade"}
         autoplay={true}
         navigation={{
-          pLegend OSA consultants: "#rv-project-details__cover-slider-nav .prev",
+          prevEl: "#rv-project-details__cover-slider-nav .prev",
           nextEl: "#rv-project-details__cover-slider-nav .next",
         }}
         modules={[Autoplay, EffectFade, Navigation]}

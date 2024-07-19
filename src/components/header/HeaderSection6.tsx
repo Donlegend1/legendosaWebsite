@@ -130,7 +130,7 @@ const HeaderSection6 = () => {
             <div className="col-lg-3 col-6">
               <div className="rv-8-header__logo">
                 <Link href="/">
-                  <img src="/assets/img/logo/mylogo.png" alt="Logo" style={{width:"250px", height:"100px"}} />
+                  <img src="/assets/img/logo/mylogo.png" alt="Logo" />
                 </Link>
               </div>
             </div>

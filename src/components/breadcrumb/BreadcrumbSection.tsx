@@ -6,7 +6,11 @@ type Props = {
 };
 const BreadcrumbSection = ({ title, currentPage }: Props) => {
   return (
-    <div className="rv-breadcrumb pt-120 pb-120">
+    <div className="rv-breadcrumb pt-120 pb-120"  style={{
+        backgroundImage: "url('/assets/img/breadcrumb-bg.jpg')", // Update this with your image path
+        backgroundSize: "cover", // Ensure the image covers the entire div
+        backgroundPosition: "center", // Center the image
+      }}>
       <div className="container">
         <h1 className="rv-breadcrumb__title">{title}</h1>
 

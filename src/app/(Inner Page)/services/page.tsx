@@ -1,7 +1,7 @@
 import BreadcrumbSection from "@/components/breadcrumb/BreadcrumbSection";
 import CtaSection from "@/components/cta/CtaSection";
 import InnerLayout from "@/components/layout/InnerLayout";
-import ServiceSection2 from "@/components/service/ServiceSection2";
+import ServiceSection5 from "@/components/service/ServiceSection5";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -13,7 +13,7 @@ export default function Home() {
     <main className="rv-14-body service-inner-page">
       <InnerLayout>
         <BreadcrumbSection title="Services" />
-        <ServiceSection2 />
+        <ServiceSection5 />
         <CtaSection inner />
       </InnerLayout>
     </main>

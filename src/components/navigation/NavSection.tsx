@@ -22,12 +22,12 @@ const NavSection = ({ style, logo }: Props) => {
         </li>
 
         <li>
-          <Link href="#">About</Link>
+          <Link href="/about">About</Link>
         </li>
         <li >
           <a
             className="dropdown-btn"
-           href="#"
+           href="/services"
          
           >
             Service
@@ -46,7 +46,7 @@ const NavSection = ({ style, logo }: Props) => {
        
 
         <li>
-          <Link href="#">Contact</Link>
+          <Link href="/contact">Contact</Link>
         </li>
       </ul>
     </div>

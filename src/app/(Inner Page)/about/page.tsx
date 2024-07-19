@@ -1,7 +1,7 @@
 import React from "react";
 import { Metadata } from "next";
 import BreadcrumbSection from "@/components/breadcrumb/BreadcrumbSection";
-import AboutSection from "@/components/about/AboutSection";
+import AboutSection5 from "@/components/about/AboutSection5";
 import SpeakerSlider from "@/components/slider/SpeakerSlider";
 import CtaSection from "@/components/cta/CtaSection";
 import InnerLayout from "@/components/layout/InnerLayout";
@@ -16,7 +16,7 @@ export default function Home() {
     <main className="rv-14-body about-inner-page">
       <InnerLayout>
         <BreadcrumbSection title="About" currentPage="About Us" />
-        <AboutSection btnStyle="rv-inner-about-btn" />
+        <AboutSection5 />
         <TeamSection5 />
         <CtaSection inner />
       </InnerLayout>
